@@ -1,6 +1,7 @@
 package actividad1;
 
 //Hugo Garcia Desdentado
+//DNI: 02778256V
 import java.util.Scanner;
 
 public class CalculadoraMisteriosa {
