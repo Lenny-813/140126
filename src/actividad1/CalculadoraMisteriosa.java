@@ -1,5 +1,6 @@
 package actividad1;
 
+//Hugo Garcia Desdentado
 import java.util.Scanner;
 
 public class CalculadoraMisteriosa {
